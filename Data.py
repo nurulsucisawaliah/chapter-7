@@ -1,4 +1,4 @@
-# membuka dan mau membaca file d:/Dataa.txt
+# membuka dan mau membaca file d:/Data.txt
 try:
     file = open("c:/data.txt", "r")
 except FileNotFoundError :
